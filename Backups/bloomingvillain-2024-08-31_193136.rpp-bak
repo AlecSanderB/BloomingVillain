@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.19/win64" 1725143798
+<REAPER_PROJECT 0.1 "7.19/win64" 1725143496
   <NOTES 0 2
   >
   RIPPLE 0
@@ -26,7 +26,7 @@
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
   LOOP 0
   LOOPGRAN 0 4
-  RECORD_PATH "bv_media" ""
+  RECORD_PATH "C:\Users\Alec\Documents\GitHub\BloomingVillain\bv_media" ""
   <RECORD_CFG
     ZXZhdxgAAQ==
   >
